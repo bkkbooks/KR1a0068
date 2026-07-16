@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR1a0068_000-WYG.yaml, hash: 'sha256:2ab5c42a62c228367fb259338a4af485b6d4ed13f8a7f43130800ebb62faf563'}
   - {seq: 1, filename: KR1a0068_001-WYG.yaml, hash: 'sha256:31b4191c3dd5ada36d1a321d176a61c0b98446069676611224e80d90d6c91423'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1a0068_000-WYG.markers.yaml, hash: 'sha256:a981145689103cb0abb3499a5a3ecf8d5820fdce468f2662de84866cab55c0ac'}
+  - {seq: 0, role: markers, filename: assets/KR1a0068_000-WYG.markers.yaml, hash: 'sha256:c49d46693645eca3c3590dba832f6cc9e47f20796cd3832fbdc6a479a3f8cd35'}
   - {seq: 1, role: markers, filename: assets/KR1a0068_001-WYG.markers.yaml, hash: 'sha256:54cd06ae70e0465c14107767f5fba5e1159220cd6b4202bf8734c049120ae920'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: juan 001
   type: section
   level: 1
-hash: sha256:42bc14f21020a93426bae8139f9f1ad1d706681a1d0ce59d0dc9b382cb158c27
+hash: sha256:2312633c89fe6244f2198478af1961e1a5e053d6b39dce20c684e6e6619cb36d
